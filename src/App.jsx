@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
@@ -30,19 +29,3 @@ function App() {
 }
 
 export default App
-=======
-
-import './App.css'
-
-function App() {
-  
-
-  return (
-    <>
-      
-    </>
-  )
-}
-
-export default App
->>>>>>> 34221959efa642af1a921b49069a94178d2a6f2d
